@@ -11,8 +11,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Привет");
-            Console.WriteLine("Good Byes163456534565346");
-            Console.WriteLine("Somthing43564565463546354563");
+            Console.WriteLine("Good");
+            Console.WriteLine("Somthing");
         }
     }
 }
