@@ -10,9 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Привет");
-            Console.WriteLine("Good");
-            Console.WriteLine("Somthing");
+            Console.WriteLine("Привет erfsdafasdf");
+            Console.WriteLine("Good dsafadsf");
+            Console.WriteLine("Somthing sdfsadf");
         }
     }
 }
